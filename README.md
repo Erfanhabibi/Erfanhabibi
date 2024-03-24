@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello there! I'm Erfanibi Ehsani, a student at Amirkabir University of Tehran, majoring in Mathematics and Computer Science. I have a passion for coding and enjoy working with various programming languages, including Python, Java, C++, and C. Additionally, I have skills frontend development, which allows me to create user-friendly interfaces.
+Hello there! I'm Erfan habibi Ehsani, a student at Amirkabir University of Tehran, majoring in Mathematics and Computer Science. I have a passion for coding and enjoy working with various programming languages, including Python, Java, C++, and C. Additionally, I have skills frontend development, which allows me to create user-friendly interfaces.
 
 ## Skills
 
